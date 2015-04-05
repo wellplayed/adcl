@@ -1,7 +1,40 @@
 #AlphaDraft Challenger League
 
+##Format
+##
+
 ##Game Rules
 ###Punctuality of Players
+####Readiness
+A team will be considered ready if the following requirements are met
+ - Players are ready to play
+ - All 5 players are in the lobby
+ - Players are on the correct side
+ - Players are in "LCS order"
+  - Top
+  - Jungle
+  - Mid
+  - ADC
+  - Support
+
+####First Game of the Day
+ - For the first game of a day, teams are considered late if they are not ready **5 minutes before** the schedule start time.
+ - Example: If the first game of the day is at 4PM PDT, teams are considered late if they are not ready to play by 3:55PM PDT
+
+####Following Games
+ - For the following games, teams will be considered late **10 minutes after** the Victory screen appears on stream.
+ 
+####Penalties for Lateness
+#####Best of 1s
+ - First strike (being late): loss of 1 ban
+ - Second strike (10 mins late): loss of all bans
+ - Third strike (15 mins late): forfeiture of game
+
+#####Best of 3s and 5s
+Strikes are reset after each game.
+ - First strike (being late): loss of 1 ban
+ - Second strike (10 mins late): forfeiture of game
+ - Third strike (15 mins late): forfeiture of series
 
 ###Choice of Side
  - During league play, first choice of side will be decided by coin toss
