@@ -1,12 +1,22 @@
 #AlphaDraft Challenger League
 
 ##Format
-##
+
+###League Play
+ - 10 teams
+ - Teams are divided into two conferences of 5 teams
+ - Teams will play the other teams in their conference four times
+ - Teams will play the teams in the other conference two times
+ - Top three teams from each conference advance to playoffs
+ - All games Best of 1
+
+###Playoffs
+ - Top seeded team from each conference advances to semi finals
 
 ##Game Rules
 ###Punctuality of Players
 ####Readiness
-A team will be considered ready if the following requirements are met
+A team will be considered ready when the following requirements are met:
  - Players are ready to play
  - All 5 players are in the lobby
  - Players are on the correct side
@@ -18,19 +28,18 @@ A team will be considered ready if the following requirements are met
   - Support
 
 ####First Game of the Day
- - For the first game of a day, teams are considered late if they are not ready **5 minutes before** the schedule start time.
- - Example: If the first game of the day is at 4PM PDT, teams are considered late if they are not ready to play by 3:55PM PDT
+ - For the first game of a day, teams are considered late if they are not ready **5 minutes before** the schedule start time. Example: If the first game of the day is at 4PM PDT, teams are considered late if they are not ready to play by 3:55PM PDT.
 
 ####Following Games
- - For the following games, teams will be considered late **10 minutes after** the Victory screen appears on stream.
+ - For the following games, teams will be considered late **10 minutes after** the Victory screen of the previous game appears on the stream.
  
 ####Penalties for Lateness
-#####Best of 1s
+**Best of 1s**
  - First strike (being late): loss of 1 ban
  - Second strike (10 mins late): loss of all bans
  - Third strike (15 mins late): forfeiture of game
 
-#####Best of 3s and 5s
+**Best of 3s and 5s**  
 Strikes are reset after each game.
  - First strike (being late): loss of 1 ban
  - Second strike (10 mins late): forfeiture of game
@@ -38,6 +47,7 @@ Strikes are reset after each game.
 
 ###Choice of Side
  - During league play, first choice of side will be decided by coin toss
+ - During playoffs, first choice of side will go to the higher seeded team
  - Teams will switch sides between games
  
 ### Game of Record
