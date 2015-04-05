@@ -32,26 +32,30 @@
   - All players are responsible for ensuring the performance of their chosen setup, including computer hardware and peripherals, internet connection, and power. A problem with player equipment is not an acceptable reason for lateness or pausing beyond a team’s allowance, regardless of the root cause of the problem.
 
 ##Restrictions on Gameplay Elements
-Restrictions may be added at any time before or during a match if there are known bugs with any items, champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of tournament officials
-Champions who have not been available on the live service for more than 2 weeks will be automatically restricted.
-4. Unfair Play & Penalties
+ - Restrictions may be added at any time before or during a match if there are known bugs with any items, champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of tournament officials
+ - Champions who have not been available on the live service for more than 2 weeks will be automatically restricted.
+
+
+##Unfair Play & Penalties
 Unfair Play. The following actions will be considered unfair play and will be subject to penalties at organizer’s discretion.
-The use of any cheat program and/or map hack program
-An intentional disconnection without a proper and explicitly stated reason
-Unsportsmanlike conduct or disruptive behavior such as inappropriate and/or unprofessional actions directed towards another player or tournament official
-The intentional use of a game bug or error to obtain an unfair advantage
-The use of an ineligible player (e.g. "ringing")
-Sharing accounts between team members or nonmembers.
-Unauthorized obstructions to match scheduling (e.g. lateness)
-Penalties for Unfair Play.
+ - The use of any cheat program and/or map hack program
+ - An intentional disconnection without a proper and explicitly stated reason
+ - Unsportsmanlike conduct or disruptive behavior such as inappropriate and/or unprofessional actions directed towards another player or tournament official
+ - The intentional use of a game bug or error to obtain an unfair advantage
+ - The use of an ineligible player (e.g. "ringing")
+ - Sharing accounts between team members or nonmembers.
+ - Unauthorized obstructions to match scheduling (e.g. lateness)
+
+##Penalties for Unfair Play.
 Upon discovery of any player committing any violations regarded as unfair play, the tournament director may issue any or all penalties, at his/her sole discretion.
-Verbal Warning
-Loss of Side Selection
-Loss of Champion Ban
-Game Forfeiture
-Tournament Disqualification
-5. Spirit of the Rules
-Finality of Decisions.
+ - Verbal Warning
+ - Loss of Side Selection
+ - Loss of Champion Ban
+ - Game Forfeiture
+ - Tournament Disqualification
+
+##Spirit of the Rules
+###Finality of Decisions.
 All decisions regarding the interpretation of these rules, player eligibility, scheduling and staging of the tournament, and penalties for misconduct, lie solely with WellPlayed and assigned tournament officials, the decisions of which are final.
-Rule Changes.
+###Rule Changes.
 These rules may be amended, modified, or supplemented in order to ensure fair play and the integrity of the competition
