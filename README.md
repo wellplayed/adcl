@@ -12,6 +12,17 @@
 
 ###Playoffs
  - Top seeded team from each conference advances to semi finals
+ - Semi finals & quarter finals are Best of 3
+ - Grand finals are Best of 5
+ - No 3rd place match will be played
+
+##Team Rosters
+ - Teams must have a minimum of 5 players
+ - Teams may have up to 2 substitute players
+
+###Roster Changes
+ - Teams may make up to 1 roster change throughout the event
+ - Roster changes require a 1 week notice to tournament officials before the new player is eligible to play
 
 ##Game Rules
 ###Punctuality of Players
@@ -78,6 +89,9 @@ Strikes are reset after each game.
  - Restrictions may be added at any time before or during a match if there are known bugs with any items, champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of tournament officials
  - Champions who have not been available on the live service for more than 2 weeks will be automatically restricted.
 
+##Use of Subs
+ - Teams may with any of their registered players during any game, including games of the same series.
+ - Teams may **not** swap players during a game.
 
 ##Unfair Play & Penalties
 Unfair Play. The following actions will be considered unfair play and will be subject to penalties at organizer’s discretion.
@@ -96,6 +110,9 @@ Upon discovery of any player committing any violations regarded as unfair play, 
  - Loss of Champion Ban
  - Game Forfeiture
  - Tournament Disqualification
+
+##Competitor Promotion Restrictions
+Players and teams are prohitibed from promoting direct AlphaDraft competitors for the duration of the event.
 
 ##Spirit of the Rules
 ###Finality of Decisions.
