@@ -16,6 +16,13 @@
  - Grand finals are Best of 5
  - No 3rd place match will be played
 
+###Prize Pool
+ - 1st
+ - 2nd
+ - 3rd/4th
+ - 5th/6th
+ - 7th/8th/9th/10th
+
 ##Team Rosters
  - Teams must have a minimum of 5 players
  - Teams may have up to 2 substitute players
@@ -119,3 +126,6 @@ Players and teams are prohitibed from promoting direct AlphaDraft competitors fo
 All decisions regarding the interpretation of these rules, player eligibility, scheduling and staging of the tournament, and penalties for misconduct, lie solely with WellPlayed and assigned tournament officials, the decisions of which are final.
 ###Rule Changes.
 These rules may be amended, modified, or supplemented in order to ensure fair play and the integrity of the competition
+
+##Prize Pool Payout
+ - Prize pool payout will be the responsibility of AlphaDraft
