@@ -12,7 +12,6 @@
  - Top seeded team from each conference advances to semi finals
  - Semi finals & quarter finals are Best of 3
  - Grand finals are Best of 5
- - No 3rd place match will be played
 
 ###Prize Pool
  - 1st: $5,000
