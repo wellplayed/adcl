@@ -15,11 +15,10 @@
  - No 3rd place match will be played
 
 ###Prize Pool
- - 1st
- - 2nd
- - 3rd/4th
- - 5th/6th
- - 7th/8th/9th/10th
+ - 1st: $5,000
+ - 2nd: $3,000
+ - 3rd: $1,000
+ - 4th-10th: $500
 
 ##Team Rosters
  - Teams must have a minimum of 5 players
