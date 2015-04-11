@@ -4,10 +4,8 @@
 
 ###League Play
  - 10 teams
- - Teams are divided into two conferences of 5 teams
- - Teams will play the other teams in their conference four times
- - Teams will play the teams in the other conference two times
- - Top three teams from each conference advance to playoffs
+ - Teams play two rounds of Round Robin
+ - Top three six teams advance to the playoffs
  - All games Best of 1
 
 ###Playoffs
