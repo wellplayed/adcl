@@ -9,7 +9,7 @@
  - All games Best of 1
 
 ###Playoffs
- - Top seeded team from each conference advances to semi finals
+ - Top two seeded teams advance to semi finals
  - Semi finals & quarter finals are Best of 3
  - Grand finals are Best of 5
  - 3rd place will be played
