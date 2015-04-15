@@ -94,8 +94,8 @@ Strikes are reset after each game.
  - Champions who have not been available on the live service for more than 2 weeks will be automatically restricted.
 
 ##Use of Subs
- - Teams may with any of their registered players during any game, including games of the same series.
- - Teams may **not** swap players during a game.
+ - Teams may **not** swap players during a game or series
+ - Teams must always provide a list of the 5 players they will be using the day before their matches
 
 ##Unfair Play & Penalties
 Unfair Play. The following actions will be considered unfair play and will be subject to penalties at organizer’s discretion.
