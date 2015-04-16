@@ -93,9 +93,30 @@ Strikes are reset after each game.
  - Restrictions may be added at any time before or during a match if there are known bugs with any items, champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of tournament officials
  - Champions who have not been available on the live service for more than 2 weeks will be automatically restricted.
 
-##Use of Subs
+##Use of Subs and Starting Lineups
  - Teams may **not** swap players during a game or series
- - Teams must always provide a list of the 5 players they will be using the day before their matches
+ - Starting lineup is defined as the 5 declared players for the games on a specific date
+ - Starting lineups must be submitted by 11:59PM (Pacific) the day before the schedule games
+ - Starting lineups are made up of 5 of the 7 players registered on a team and are separate from roster changes
+
+###Penalties
+ - Late submission of starting lineups
+  - before 01:00 AM (Pacific) of the playing day: 1 Demerit
+  - before 11:59 AM (Pacific) of the playing day: 2 Demerits
+  - before 4:00 PM (Pacific) of the playing day: 3 Demerits
+ - Late change of starting lineup (ie: using a last-minute sub from existing roster of 7)
+  - before 01:00 AM (Pacific) of the playing day: 1 Demerit
+  - before 11:59 AM (Pacific) of the playing day: 2 Demerits
+  - before 4:00 PM (Pacific) of the playing day: 3 Demerits
+
+Additional Demerits may be assigned by the administrative staff for reasons including:
+- Lateness
+- Excessive forfeitures
+
+##Demerits & Penailts
+1 Demerit = Warning. This demerit will roll over to the next week, then expire after that day is done. For example, a Demerit earned on Wednesday will be active during that week’s Wednesday, Thursday, and Friday games, as well as the next week’s Tuesday games, then expire once the next week’s Tuesday games are completed.
+
+If a team has accumulated over 1 Demerit, their prize pool earnings will be reduced by **$50** for each Demerit over 1.
 
 ##Unfair Play & Penalties
 Unfair Play. The following actions will be considered unfair play and will be subject to penalties at organizer’s discretion.
@@ -110,6 +131,7 @@ Unfair Play. The following actions will be considered unfair play and will be su
 ##Penalties for Unfair Play.
 Upon discovery of any player committing any violations regarded as unfair play, the tournament director may issue any or all penalties, at his/her sole discretion.
  - Verbal Warning
+ - Demerits
  - Loss of Side Selection
  - Loss of Champion Ban
  - Game Forfeiture
