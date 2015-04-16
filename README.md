@@ -61,7 +61,7 @@ Strikes are reset after each game.
  - Third strike (15 mins late): forfeiture of series
 
 ###Choice of Side
- - During league play, first choice of side will be decided by coin toss
+ - During league play, first game side will be decided by coin toss
  - During playoffs, first choice of side will go to the higher seeded team
  - Teams will switch sides between games
  
