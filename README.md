@@ -25,7 +25,8 @@
  - Teams may have up to 2 substitute players
 
 ###Roster Changes
- - Teams may make up to 1 roster change throughout the event
+ - Teams may make up to 2 roster changes per week
+ - Teams may make a maxium of 4 roster changes through the entire event
  - Roster changes require a 1 week notice to tournament officials before the new player is eligible to play
 
 ##Game Rules
