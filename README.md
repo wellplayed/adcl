@@ -97,6 +97,7 @@ Strikes are reset after each game.
 ##Use of Subs and Starting Lineups
  - Teams may **not** swap players during a game or series
  - Starting lineup is defined as the 5 declared players for the games on a specific date
+ - Starting lineups must be given in LCS order: Top,Jungle,Mid,ADC,Support
  - Starting lineups must be submitted by 11:59PM (Pacific) the day before the schedule games
  - Starting lineups are made up of 5 of the 7 players registered on a team and are separate from roster changes
 
