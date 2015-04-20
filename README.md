@@ -5,7 +5,7 @@
 ###League Play
  - 10 teams
  - Teams play two rounds of Round Robin
- - Top three six teams advance to the playoffs
+ - Top six teams advance to the playoffs
  - All games Best of 1
 
 ###Playoffs
