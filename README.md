@@ -21,13 +21,13 @@
  - 4th-10th: $500
 
 ##Team Rosters
- - Teams must have a minimum of 5 players
- - Teams may have up to 2 substitute players
+ - Teams must have a minimum of 5 players and may have a maximum of 7
 
 ###Roster Changes
  - Teams may make up to 2 roster changes per week
  - Teams may make a maxium of 4 roster changes through the entire event
  - Roster changes require a 1 week notice to tournament officials before the new player is eligible to play
+ - Roster changes can be submitted here: https://docs.google.com/a/wellplayed.org/forms/d/14JbJwlm-qFobwDvXB50qaIJz6HPQ_ZYxOIDo-s7vjxo/viewform
 
 ##Game Rules
 ###Punctuality of Players
