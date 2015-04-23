@@ -106,6 +106,7 @@ Strikes are reset after each game.
  - Starting lineup is defined as the 5 declared players for the games on a specific date
  - Starting lineups must be given in LCS order: Top,Jungle,Mid,ADC,Support
  - Starting lineups must be submitted by 11:59PM (Pacific) the day before the schedule games
+ - Starting lineups should be submitted here: https://docs.google.com/forms/d/1RY858catHgdUxPDIxuSPPtsLVbpsouo8TvGUHw5CjMg/viewform
  - Starting lineups are made up of 5 of the 7 players registered on a team and are separate from roster changes
 
 ###Penalties
