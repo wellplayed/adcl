@@ -26,7 +26,7 @@
 ###Roster Changes
  - Teams may make up to 2 roster changes per week
  - Teams may make a maxium of 4 roster changes through the entire event
- - Roster changes require a 1 week notice to tournament officials before the new player is eligible to play
+ - Roster changes require a 1 week (7 days) notice to tournament officials before the new player is eligible to play
  - Roster changes can be submitted here: https://docs.google.com/a/wellplayed.org/forms/d/14JbJwlm-qFobwDvXB50qaIJz6HPQ_ZYxOIDo-s7vjxo/viewform
 
 ##Game Rules
