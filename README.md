@@ -51,15 +51,22 @@ A team will be considered ready when the following requirements are met:
  
 ####Penalties for Lateness
 **Best of 1s**
- - First strike (being late): loss of 1 ban
- - Second strike (10 mins late): loss of all bans
+ - First strike (being late): 1 ban given to opponent
+ - Second strike (10 mins late): all bans given to opponent
  - Third strike (15 mins late): forfeiture of game
 
 **Best of 3s and 5s**  
 Strikes are reset after each game.
- - First strike (being late): loss of 1 ban
- - Second strike (10 mins late): forfeiture of game
- - Third strike (15 mins late): forfeiture of series
+ - First strike (being late): 1 ban given to opponent
+ - Second strike (10 mins late): all bans given to opponent
+ - Third strike (15 mins late): forfeiture of game
+ - Fourth strike (25 mins late): forfeiture of series
+
+**Loss of Bans**
+ - When teams lose their bans to their opponents, their opponent will dictate to them which champions to ban
+ - Bans are lost in reverse order. Meaning that losing 1 ban means your opponent dictates your last ban
+ - Opponents will dictate which champions for the penazlied team to ban after all normal bans are complete
+ - Communication of dictated bans will be done in a private chat between two team managers or captains and a tournament official
 
 ###Choice of Side
  - During league play, first game side will be decided by coin toss
