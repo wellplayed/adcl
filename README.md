@@ -21,12 +21,12 @@
  - 4th-10th: $500
 
 ##Team Rosters
- - Teams must have a minimum of 5 players and may have a maximum of 7
+ - Teams must have a minimum of 5 players and may have a maximum of 8
 
 ###Roster Changes
  - Teams may make up to 2 roster changes per week
  - Teams may make a maxium of 4 roster changes through the entire event
- - Roster changes require a 1 week (7 days) notice to tournament officials before the new player is eligible to play
+ - Roster changes require a 48  hour notice to tournament officials before the new player is eligible to play
  - Roster changes can be submitted here: https://docs.google.com/a/wellplayed.org/forms/d/14JbJwlm-qFobwDvXB50qaIJz6HPQ_ZYxOIDo-s7vjxo/viewform
 
 ##Game Rules
@@ -107,14 +107,14 @@ Strikes are reset after each game.
  - Starting lineups must be given in LCS order: Top,Jungle,Mid,ADC,Support
  - Starting lineups must be submitted by 11:59PM (Pacific) the day before the schedule games
  - Starting lineups should be submitted here: https://docs.google.com/forms/d/1RY858catHgdUxPDIxuSPPtsLVbpsouo8TvGUHw5CjMg/viewform
- - Starting lineups are made up of 5 of the 7 players registered on a team and are separate from roster changes
+ - Starting lineups are made up of 5 of the 8 players registered on a team and are separate from roster changes
 
 ###Penalties
  - Late submission of starting lineups
   - before 01:00 AM (Pacific) of the playing day: 1 Demerit
   - before 11:59 AM (Pacific) of the playing day: 2 Demerits
   - before 4:00 PM (Pacific) of the playing day: 3 Demerits
- - Late change of starting lineup (ie: using a last-minute sub from existing roster of 7)
+ - Late change of starting lineup (ie: using a last-minute sub from existing roster of 8)
   - before 01:00 AM (Pacific) of the playing day: 1 Demerit
   - before 11:59 AM (Pacific) of the playing day: 2 Demerits
   - before 4:00 PM (Pacific) of the playing day: 3 Demerits
