@@ -12,7 +12,7 @@
  - Top two seeded teams advance to semi finals
  - Semi finals & quarter finals are Best of 3
  - Grand finals are Best of 5
- - 3rd place will be played
+ - 3rd place will be played and is a Best of 5
 
 ###Prize Pool
  - 1st: $5,000
