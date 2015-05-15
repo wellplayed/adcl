@@ -123,7 +123,7 @@ Additional Demerits may be assigned by the administrative staff for reasons incl
 - Lateness
 - Excessive forfeitures
 
-##Demerits & Penailts
+##Demerits & Penalties
 1 Demerit = Warning. This demerit will roll over to the next week, then expire after that day is done. For example, a Demerit earned on Wednesday will be active during that week’s Wednesday, Thursday, and Friday games, as well as the next week’s Tuesday games, then expire once the next week’s Tuesday games are completed.
 
 If a team has accumulated over 1 Demerit, their prize pool earnings will be reduced by **$50** for each Demerit over 1.
